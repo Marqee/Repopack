@@ -1,0 +1,11 @@
+README.md
+setup.py
+pckage/__init__.py
+pckage/recursion.py
+pckage/sorting.py
+repopack.egg-info/PKG-INFO
+repopack.egg-info/SOURCES.txt
+repopack.egg-info/dependency_links.txt
+repopack.egg-info/requires.txt
+repopack.egg-info/top_level.txt
+test/test.py
