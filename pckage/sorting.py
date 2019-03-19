@@ -17,7 +17,7 @@ def merge_sort(items):
 
 '''Return an array with sorted ascending order'''
 
-   def bubble_sort(items):
+def bubble_sort(items):
     z =[]
     while len(items) > 0:
         for i in items:
